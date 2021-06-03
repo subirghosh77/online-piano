@@ -9,12 +9,12 @@
 	top: 230px;
 	position: relative;
 }
-}
 ul {
 	margin: 0px;
 	padding: 0px;
 	position: relative;
 }
+
 li {
 	margin: 0px;
 	padding: 0px;
@@ -23,6 +23,7 @@ li {
 	float: left;
 	cursor: pointer;
 }
+
 .white {
 	width: 68px;
 	height: 200px;
@@ -32,6 +33,7 @@ li {
 	z-index: 1;
 	border-radius: 0 0 5px 5px;
 }
+
 .black {
 	width: 30px;
 	height: 120px;
@@ -40,33 +42,35 @@ li {
 	margin: 0 0 0 -15px;
 	border-radius: 0 0 5px 5px;
 }
-.d,
-.e,
-.g,
-.a,
-.b {
+
+.d, .e, .g, .a, .b {
 	margin: 0 0 0 -15px;
 }
+
 .lastkey {
 	border-right: 1px solid #bbb;
 }
+
 .white:active {
 	border-top: 1px solid #777;
 	border-left: 1px solid #999;
 	border-bottom: 1px solid #999;
 	background: #e9e9e9;
 }
+
 .black:active {
 	border-top: 1px solid #000;
 	border-left: 0px solid #111;
 	border-bottom: 1px solid #111;
 	background: #000;
 }
+
 .keyWhite {
 	font-size: 30px;
 	margin-left: 24px;
 	margin-top: 151px;
 }
+
 .keyBlack {
 	font-size: 27px;
 	margin-top: 79px;
