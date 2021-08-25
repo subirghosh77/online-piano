@@ -14,7 +14,7 @@ HTML, CSS, JavaScript, NetBeans , Glassfish .
 
 Description 
 -----------
-	  The project is based on a piano ,in which we have built a interface of a  web version. 
+    The project is based on a piano ,in which we have built a interface of a  web version. 
 	  
 Image
 -----
@@ -28,9 +28,15 @@ We add audio file by using __`<audio>`__ tag
 
 ```html
 <audio id="a_1">
-	<source type="audio/wav" src="audio/c.wav">
+    <source type="audio/wav" src="audio/c.wav">
 </audio>
 ```
 
-- __Features :__ On key press to play the piano . 
-- __Team Members :__ https://github.com/subirghosh77 , https://github.com/sneha2245/
+Features
+--------
+
+On key press to play the piano . 
+
+Team Members
+------------
+https://github.com/subirghosh77 , https://github.com/sneha2245/
