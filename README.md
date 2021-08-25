@@ -1,5 +1,9 @@
-# Online Piano
+# Online Piano <img src="https://img.shields.io/badge/project-completed-brightgreen">
+
+<img src="https://img.shields.io/badge/HTML-v5-brightgreen"> <img src="https://img.shields.io/badge/css-brightgreen"> <img src="https://img.shields.io/badge/JavaScript-brightgreen"> <img src="https://img.shields.io/badge/NetBeans-brightgreen"> <img src="https://img.shields.io/badge/Glassfish-v4.1-brightgreen">
+
 https://subirghosh77.github.io/online-piano/
+
 - __Duration :__ 1 month.
 - __Technologies / Tools Used :__ HTML, CSS, JavaScript, NetBeans , Glassfish .
 - __Description :__ 
