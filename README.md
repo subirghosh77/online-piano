@@ -4,14 +4,33 @@
 
 https://subirghosh77.github.io/online-piano/
 
-- __Duration :__ 1 month.
-- __Technologies / Tools Used :__ HTML, CSS, JavaScript, NetBeans , Glassfish .
-- __Description :__ 
+Duration 
+--------
+1 month.
+
+Technologies / Tools Used
+-------------------------
+HTML, CSS, JavaScript, NetBeans , Glassfish .
+
+Description 
+-----------
 	  The project is based on a piano ,in which we have built a interface of a  web version. 
 	  
-- __Image :__
+Image
+-----
 
 <img src="https://github.com/subirghosh77/online-piano/blob/main/index.png" alt="index" width="100%" height="100%" title="Index">
+
+Code
+----
+
+We add audio file by using __`<audio>`__ tag
+
+```html
+<audio id="a_1">
+	<source type="audio/wav" src="audio/c.wav">
+</audio>
+```
 
 - __Features :__ On key press to play the piano . 
 - __Team Members :__ https://github.com/subirghosh77 , https://github.com/sneha2245/
